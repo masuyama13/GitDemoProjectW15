@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Demo");
 		System.out.println("Add this by a member");
+		System.out.println("Another branch");
 	}
 
 }
